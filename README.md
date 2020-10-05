@@ -1,6 +1,6 @@
 # Циклы
 
-[![Смотреть видео](video.png)](https://youtu.be/58u0yEKnLWc)
+[![Смотреть видео](video.png)](https://youtu.be/SQHLMYYghx4)
 
 1. Циклы
     * while
